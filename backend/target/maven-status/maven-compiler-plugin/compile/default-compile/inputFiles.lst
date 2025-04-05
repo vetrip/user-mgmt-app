@@ -1,0 +1,13 @@
+/Users/vetri/cursor-sandbox/user-management-app/backend/src/main/java/com/example/usermanagement/entity/UserRole.java
+/Users/vetri/cursor-sandbox/user-management-app/backend/src/main/java/com/example/usermanagement/repository/UserRepository.java
+/Users/vetri/cursor-sandbox/user-management-app/backend/src/main/java/com/example/usermanagement/dto/UserDTO.java
+/Users/vetri/cursor-sandbox/user-management-app/backend/src/main/java/com/example/usermanagement/config/SecurityConfig.java
+/Users/vetri/cursor-sandbox/user-management-app/backend/src/main/java/com/example/usermanagement/mapper/UserMapper.java
+/Users/vetri/cursor-sandbox/user-management-app/backend/src/main/java/com/example/usermanagement/config/WebConfig.java
+/Users/vetri/cursor-sandbox/user-management-app/backend/src/main/java/com/example/usermanagement/config/DataInitializer.java
+/Users/vetri/cursor-sandbox/user-management-app/backend/src/main/java/com/example/usermanagement/entity/UserStatus.java
+/Users/vetri/cursor-sandbox/user-management-app/backend/src/main/java/com/example/usermanagement/service/UserService.java
+/Users/vetri/cursor-sandbox/user-management-app/backend/src/main/java/com/example/usermanagement/controller/UserController.java
+/Users/vetri/cursor-sandbox/user-management-app/backend/src/main/java/com/example/usermanagement/UserManagementApplication.java
+/Users/vetri/cursor-sandbox/user-management-app/backend/src/main/java/com/example/usermanagement/exception/ResourceNotFoundException.java
+/Users/vetri/cursor-sandbox/user-management-app/backend/src/main/java/com/example/usermanagement/entity/User.java
